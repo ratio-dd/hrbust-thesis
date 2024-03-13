@@ -1,9 +1,11 @@
 <!-- Author : Jingxuan Yang-->
+<!-- Second Author : Ratio Ma-->
 <!-- Program Email: yanglatex2e@gmail.com -->
 
-# hitszthesis: Dissertation Template for Harbin Institute of Technology, ShenZhen (HITSZ)
+# hitszthesis: Dissertation Template for Harbin University of Science and Technology(Hrbust)
 
-# hitszthesis：哈尔滨工业大学（深圳）本硕博学位论文LaTeX模板
+# hitszthesis：哈尔滨理工大学本科学位论文LaTeX模板
+## 本项目Fork自hitszthesis
 
 ![CTAN Version](https://img.shields.io/ctan/v/hitszthesis.svg)
 ![GitHub Version](https://img.shields.io/github/release/YangLaTeX/hitszthesis.svg)
